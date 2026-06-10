@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animals Skin Pack",
+    "uuid": "df5d62d8-c5d3-75f9-7722-39af4183a8a2",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "1156e2bf-2471-8430-47f3-e6639d5a64e8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Joey Nigro"
+    ]
+  }
+}
